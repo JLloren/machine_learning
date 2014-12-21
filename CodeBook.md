@@ -1,5 +1,7 @@
 Description of the variables, data, and any transformations or work performed to clean up the data
 ------------------------------------------------------------------------------------------------
+The file run_analysis.R was programmed usin R-STUDIO.
+
 First define the url address to download the data in the working directory.
 
 Then, several tables contain the data included in the *.txt files included in the folders. These matrix are X_train, y_train, sub_train, X_test, y_test and sub_train.
