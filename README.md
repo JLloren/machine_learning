@@ -2,7 +2,9 @@ Human Activit Recognition using Smartphones
 ===================
 
 The script developed accomplishes the objective required.
-You can find in the file run_analysis.R a description of the steps taken to get the final results which are included in the file tidydata.txt
+You can find in the file run_analysis.R a description of the steps taken to get the final results which are included in the file tidydata.txt. 
+
+The file run_analysis.R was programmed usin R-STUDIO.
 
 First, the *.zip file was downloaded into the working directory, and was unzipped
 There are two folders containing train and test data
